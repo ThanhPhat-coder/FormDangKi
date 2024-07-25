@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(72, 76, 76);
+}
+body {
+  
+}
+.main-form {
+    margin: 0 auto;
+    width: 500px;
+    height: 800px;
+    background-color: #FEF3E2;
+    
+}
+.main-form span {
+    background-color: #FEF3E2;
+    margin:10px 10px ;
+}
+.main-form #back {
+    position: absolute;
+    display: inline;
+    margin: 13px 0;
+    background-color: #FEF3E2;
+}
+.title {
+    margin: 0 0 0 100px;
+    position: absolute;
+    font-weight: bold;
+    font-size: 70px;
+    background-color: #FEF3E2;
+    font-family: "Inknut Antiqua", serif;
+    color:  #708871;
+}
+.infomation {
+    position: absolute;
+    margin-top: 200px;
+    background-color: #FEF3E2;
+}
+.accept {
+    position: absolute;
+    margin-top: 500px;
+    background-color: #FEF3E2;
+}
+.infomation div {
+    margin-top: 30px;
+    background-color: #FEF3E2;
+}
+.infomation input{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: #416FE4;
+    background-color: white;
+}
+.info1 input {
+    margin-left: 64px;
+}
+.info2 input {
+    margin-left: 62px;
+}
+.info3 input {
+    margin-left: 97.5px;
+}
+.info4 input {
+    margin-left: 40px;
+}
+.infomation p {
+    background-color: #FEF3E2;
+    color: #606676;
+    display: inline;
+}
+
+.accept button {
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    border-color: #416FE4;
+    display: inline;
+    background-color: #0D5CD3;
+    color: white;
+    margin-left: 110%;
+}
+#line {
+    height: 0.5px;
+    width: 36.8%;
+    position: absolute;
+    margin-top: 650px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+#detail {
+    position: absolute;
+    margin-top: 660px;
+    margin-left: 11%;
+    color:#606676;
+    background-color: #FEF3E2;
+}
+#image {
+    margin-top: 680px;
+    margin-left: 160px;
+    width: 30px;
+    height: 30px;
+    background-color: #FEF3E2;
+}
+#image2 {
+    margin-top: 680px;
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #FEF3E2;
+}
+#image3 {
+    margin-top: 680px;
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #FEF3E2;
+}
+#image4 {
+    margin-top: 680px;
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #FEF3E2;
+}
